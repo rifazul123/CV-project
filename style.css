@@ -1,0 +1,116 @@
+*{
+        margin:0px;
+        padding:0px;
+
+}
+body{
+           background-color: white;
+
+           font-family: Georgia, 'Times New Roman', Times, serif;
+
+      
+}
+.container{
+              max-width: 1000px;
+              background-color: #e4f9f5;
+             margin:0 auto;
+}
+
+.profile{
+             width:100px;
+            height:120px;
+            border:solid white 3px;
+            border-radius:50%;
+            float:left;
+        margin-top:20px;
+}
+
+h1,h2,h3,h4,h5{
+        color:#11999e;
+}
+.movement{
+                 float:left;
+                
+                 padding:50px;
+}
+
+.link{
+            float:right;
+         
+            padding:50px;
+}
+.link a{
+          text-decoration: none;
+          color:teal;
+}
+.link a:hover{
+               text-decoration: underline;
+                color:red;
+}
+
+.div-clear{
+             clear:both;
+
+}
+
+hr{
+            border:3px solid black;
+            margin:20px auto;
+            border-bottom:none;
+}
+
+.section-select{
+
+
+}
+.content{
+
+}
+
+.left-div{
+              width:30%;
+              float:left;
+
+}
+
+.right-div{
+
+        width:70%;
+        float:right;
+
+
+}
+.common{
+
+           border:1px solid black;
+           margin:20px auto;
+          border-bottom:none;
+}
+
+.edu-templace-left{
+                float:left;
+                width:45%
+}
+
+.edu-templace-right{
+                    float:right;
+                    width:45%;
+}
+
+.roof{
+           background-color: black;
+           padding:10px;
+           text-align:center;
+}
+
+.roof a{
+            color:white;
+            text-decoration: none;
+            margin:20px;
+}
+
+.roof p{
+        color:white;
+        
+        margin-top:20px;
+}
